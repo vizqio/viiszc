@@ -1,10 +1,11 @@
 #  ✨Viiszc Profile✨
 
-- 👋 Hi, I’m @viiszc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 👀 I’m interested in Software/Full Stack Development
+- 🥇 My primary programming language is Python.
+- 🌱 I’m currently learning Javascript, React.js, Node.js.
+- 💞️ I’m looking to collaborate on nothing right now.
+- 📫 How to reach me N/A
 
 <!---
 viiszc/viiszc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
